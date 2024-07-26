@@ -6,8 +6,8 @@
 ABOUT ME:</br>
 - 🔭 I’m currently more into the Programming<br>
 - 👾 Git commit -m 'Still figuring this out.<br>
-- 🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community<br>
 - 🥲Debugging: Because breaking things is easy.<br>
+- 🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community<br>
 - 💬 Ask me about Technology, Aviation, Troubleshooting, Psychology, Neuroscience, History, Nature.<br>
 
 # *I am willing to collaborate as a team player building better code.*
