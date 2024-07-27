@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, This is Samiksha</h1>
 <h3 align="center">Trying to code cool stuff</h3>
 </br>
+<p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+</p>
 
 </br></br></br>
 ABOUT ME:</br>
