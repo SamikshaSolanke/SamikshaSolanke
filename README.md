@@ -22,7 +22,8 @@ ABOUT ME:</br>
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://www.leetcode.com/samiksha_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiksha_05" height="30" width="40" /></a>
 
-  
+![Leetcode Stats](https://leetcard.jacoblin.cool/samiksha_05?ext=heatmap)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
