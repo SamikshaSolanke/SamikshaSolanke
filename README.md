@@ -1,28 +1,42 @@
 <h1 align="center">Hi there, This is Samiksha</h1>
 <h3 align="center">Trying to code cool stuff</h3>
+<h3 align="center">AI & Data Science @ VIT Pune &nbsp;·&nbsp; ML · NLP · LLMs · RAG</h3>
 </br>
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 </p>
+<p align="center">
+  <a href="https://samiksha-solanke-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/samiksha-solanke-1611342ba/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.leetcode.com/samiksha_05">LeetCode</a> &nbsp;·&nbsp;
+  <a href = "https://samiksha-solanke-portfolio.vercel.app/">Portfolio Website</a>
+</p>
+ 
+### What I build
+ 
+End-to-end AI systems — from model training to deployed APIs.
+ 
+- 🔍 **RAG pipelines** — semantic chunking, hybrid retrieval, FAISS vector search
+- 🧠 **LLM-integrated backends** — FastAPI + Groq, production-tested
+- 📊 **Predictive ML** — feature engineering, model validation, large-scale datasets
+- 📝 **NLP systems** — classification, summarisation, document processing
 
-</br></br></br>
-ABOUT ME:</br>
-- 🔭 I’m currently more into the Programming<br>
-- 👾 Git commit -m 'Still figuring this out.<br>
-- 🥲Debugging: Because breaking things is easy.<br>
-- 🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community<br>
-- 💬 Ask me about AIML.
-  
-</br>
-<a href = "https://samiksha-solanke-portfolio.vercel.app/">Portfolio Website</a>
+---
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samiksha-solanke-1611342ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiksha solanke" height="30" width="40" /></a>
-<a href="https://github.com/SamikshaSolanke" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-<a href="https://www.leetcode.com/samiksha_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiksha_05" height="30" width="40" /></a>
+### Tech Stack
+- **Languages** &nbsp; Python · SQL · R · Java · C/C++ · JavaScript
+- **ML / AI** &nbsp; TensorFlow · Scikit-Learn · FAISS · NLP · LLMs · RAG · OpenCV · Pandas · NumPy
+- **Backend / Tools** &nbsp; FastAPI · REST APIs · Git · Linux · PostgreSQL · MySQL
+- **Frontend** &nbsp; React · Vite
+ 
+---
+ 
+### A Few Numbers
+- 📄 &nbsp; 2x published in **IEEE Xplore** and AIP Conference Proceedings
+- 🧩 &nbsp; **450+ DSA problems** solved on LeetCode
+- 🏆 &nbsp; **2nd place**, Codezilla Hackathon (50+ teams)
+- 🎓 &nbsp; CGPA **8.84 / 10.0**
+---
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samiksha_05?ext=heatmap)
 
