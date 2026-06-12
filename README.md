@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, This is Samiksha</h1>
-<h3 align="center">Trying to code cool stuff</h3>
+<h3 align="center">Trying to code cool stuff with the urge to break my laptop</h3>
 <h3 align="center">AI & Data Science @ VIT Pune &nbsp;·&nbsp; ML · NLP · LLMs · RAG</h3>
 </br>
 <p align="center">
