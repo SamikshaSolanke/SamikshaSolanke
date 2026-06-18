@@ -9,7 +9,7 @@
   <a href="https://samiksha-solanke-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/samiksha-solanke-1611342ba/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.leetcode.com/samiksha_05">LeetCode</a> &nbsp;·&nbsp;
-  <a href = "https://samiksha-solanke-portfolio.vercel.app/">Portfolio Website</a>
+  <a href = "https://samiksha-solanke-portfolio.vercel.app/">Portfolio</a>
 </p>
  
 ### What I build
