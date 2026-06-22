@@ -35,7 +35,7 @@ End-to-end AI systems — from model training to deployed APIs.
 - 📄 &nbsp; 2x published in **IEEE Xplore** and AIP Conference Proceedings
 - 🧩 &nbsp; **450+ DSA problems** solved on LeetCode
 - 🏆 &nbsp; **2nd place**, Codezilla Hackathon (50+ teams)
-- 🎓 &nbsp; CGPA **8.84 / 10.0**
+- 🎓 &nbsp; CGPA **8.87 / 10.0**
 ---
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samiksha_05?ext=heatmap)
