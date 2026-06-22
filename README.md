@@ -6,7 +6,7 @@
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 </p>
 <p align="center">
-  <a href="https://samiksha-solanke-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/SamikshaSolanke">GitHub</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/samiksha-solanke-1611342ba/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.leetcode.com/samiksha_05">LeetCode</a> &nbsp;·&nbsp;
   <a href = "https://samiksha-solanke-portfolio.vercel.app/">Portfolio</a>
